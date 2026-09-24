@@ -40,3 +40,6 @@ Semaphores are used to synchronize the Producer and Consumer processes and ensur
 Student Marks: [85, 78, 92, 88, 76]
 Total Marks: 419
 Average Marks: 83.8
+```
+
+![Sample Output](output.png)
